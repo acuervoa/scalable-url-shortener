@@ -2,7 +2,7 @@
 
 Este proyecto es una aplicación de acortador de URL escalable implementada con Node.js, Express y Redis. El objetivo es distribuir las claves de forma equilibrada entre múltiples instancias de Redis para garantizar la alta disponibilidad y escalabilidad del sistema.
 
-Esta desarrollado a partir del articulo https://www.freecodecamp.org/news/build-a-scalable-url-shortener-with-distributed-caching-using-redis/ habiendo mofificado la gestion de servidores Redis para utilizar promesas
+Esta desarrollado a partir del artículo https://www.freecodecamp.org/news/build-a-scalable-url-shortener-with-distributed-caching-using-redis/ habiendo modificado la gestión de servidores Redis para utilizar promesas
 
 ## Características
 - **Escalabilidad**: Se utiliza múltiples instancias de Redis para distribuir las cargas de trabajo de almacenamiento de URLs.
