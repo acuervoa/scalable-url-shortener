@@ -24,7 +24,7 @@ Esta desarrollado a partir del artículo https://www.freecodecamp.org/news/build
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/scalable-url-shortener.git
+   git clone https://github.com/acuervoa/scalable-url-shortener.git
    cd scalable-url-shortener
    ```
 
